@@ -1,0 +1,29 @@
+{
+  "name": "exim",
+  "description": "Installs/Configures exim",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "maintainer": "2combinators OU",
+  "maintainer_email": "aleksei@2combinators.com",
+  "license": "All rights reserved",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0"
+}
